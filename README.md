@@ -1,16 +1,15 @@
-## Hola a todos mi nombre es Darwin Gutiérrez 👋
+# Hola a todos, mi nombre es Darwin Gutiérrez
 
-<!--
-**dpgutierrezcevallos/dpgutierrezcevallos** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 Ingeniero Matemático | 💼 Científico de Datos Junior | 📊 Apasionado por los datos
 
-Here are some ideas to get you started:
+# 🚀 Sobre mí
+Tengo 27 años, apasionado por mantenerme en constante aprendizaje y predispuesto por asumir retos profesionales.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+# 🛠️ Tecnologías y herramientas
+Lenguajes: · R · SQL . HTML . CSS
+Herramientas: · Power BI · Excel · Git
+
+# 🔍 Contacto
+✉️ Correo: ddpgutierrezcevallos@gmail.com
+💼 LinkedIn: www.linkedin.com/in/gutierrezdarwin
+⭐ ¡Gracias por visitar mi perfil!
