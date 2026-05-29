@@ -10,6 +10,6 @@ Lenguajes: · R · SQL . HTML . CSS
 Herramientas: · Power BI · Excel · Git
 
 # 🔍 Contacto
-✉️ Correo: ddpgutierrezcevallos@gmail.com
+✉️ Correo: dpgutierrezcevallos@gmail.com
 💼 LinkedIn: www.linkedin.com/in/gutierrezdarwin
 ⭐ ¡Gracias por visitar mi perfil!
