@@ -6,10 +6,15 @@
 Tengo 27 años, apasionado por mantenerme en constante aprendizaje y predispuesto por asumir retos profesionales.
 
 # 🛠️ Tecnologías y herramientas
+
 Lenguajes: · R · SQL . HTML . CSS
+
 Herramientas: · Power BI · Excel · Git
 
 # 🔍 Contacto
+
 ✉️ Correo: dpgutierrezcevallos@gmail.com
+
 💼 LinkedIn: www.linkedin.com/in/gutierrezdarwin
+
 ⭐ ¡Gracias por visitar mi perfil!
